@@ -46,36 +46,103 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/continueMessage"
+        <!-- Login Form Container -->
+        <LinearLayout
+            android:id="@+id/loginFormContainer"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="444dp"
-            android:gravity="center"
-            android:text="@string/coco_greeting"
-            android:textColor="#222"
-            android:textSize="16sp"
-            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="24dp"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_margin="420dp"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent">
 
+            <EditText
+                android:id="@+id/etUsername"
+                android:layout_width="280dp"
+                android:layout_height="48dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/rounded_edittext_bg"
+                android:hint="@string/username_button"
+                android:inputType="textEmailAddress"
+                android:autofillHints="username"
+                android:padding="12dp"
+                android:textColor="#222"
+                android:textColorHint="#545252"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="280dp"
+                android:layout_height="48dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/rounded_edittext_bg"
+                android:hint="@string/password_button"
+                android:inputType="textPassword"
+                android:autofillHints="password"
+                android:padding="12dp"
+                android:textColor="#444444"
+                android:textColorHint="#545252"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tvForgotPassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/forgot_password"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/no_account"
+                    android:textColor="#000000"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tvSignUp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/login_signup"
+                    android:textColor="#3F703B"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <!-- Google Sign-In Button (optional, can be on a separate screen) -->
+        <!--
         <Button
-            android:id="@+id/btnContinue"
-            android:layout_width="200dp"
+            android:id="@+id/btnGoogleSignIn"
+            android:layout_width="280dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="36dp"
-            android:backgroundTint="#3F703B"
-            android:fontFamily="@font/luckiest_guy"
-            android:text="@string/continue_button"
-            android:textColor="#C3B478"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.497"
+            android:text="Sign in with Google"
+            android:backgroundTint="#fff"
+            android:textColor="#222"
+            android:drawableLeft="@drawable/ic_google"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/loginFormContainer"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/continueMessage" />
+            app:layout_constraintEnd_toEndOf="parent"/>
+        -->
 
+        <!-- Keep Lottie birds animation as before -->
         <com.airbnb.lottie.LottieAnimationView
             android:id="@+id/lottieBirds"
             android:layout_width="match_parent"
@@ -87,5 +154,21 @@
             app:lottie_fileName="birds.json"
             app:lottie_loop="true"
             tools:layout_editor_absoluteX="0dp" />
+
+        <Button
+            android:id="@+id/btnLoginContinue"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="58dp"
+            android:layout_marginEnd="106dp"
+            android:layout_marginBottom="146dp"
+            android:backgroundTint="#3F703B"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="@string/continue_button"
+            android:textColor="#C3B478"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/loginFormContainer" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>

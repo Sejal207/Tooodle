@@ -12,7 +12,7 @@ public class GettingStartedActivity extends AppCompatActivity {
         setContentView(R.layout.activity_getting_started);
 
         findViewById(R.id.btnGetStarted).setOnClickListener(v -> {
-            startActivity(new Intent(this, SignUpActivity.class));
+            startActivity(new Intent(this, GoogleSignInActivity.class));
         });
 
         findViewById(R.id.btnAlreadyAccount).setOnClickListener(v -> {

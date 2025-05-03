@@ -36,7 +36,7 @@ public class SplashActivity extends AppCompatActivity {
 
 // Step 3: Navigate to Login screen later (e.g., at 6.5s)
         new Handler().postDelayed(() -> {
-            startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+            startActivity(new Intent(SplashActivity.this, GettingStartedActivity.class));
             finish();
         }, 10000);
 

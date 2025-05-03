@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable gradient_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font luckiest_guy
+id bubbleView
+id logoContainer
+id logoText
+id main
+id splash_container
+layout activity_login
+layout activity_main
+layout activity_splash
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw logo
+string app_name
+string login_screen
+string logo_name
+style Base.Theme.Mad_toodle
+style Theme.Mad_toodle
+xml backup_rules
+xml data_extraction_rules

@@ -2,4 +2,11 @@
     <string name="app_name">Toodle</string>
     <string name="logo_name">TOODLE</string>
     <string name="login_screen">Login Screen</string>
+    <string name="carrot_boy">A boy with lots of fresh carrots</string>
+    <string name="magical_heading">A  MAGICAL  JOURNEY  OF\n  LEARNING  BEGINS  HERE</string>
+    <string name="ignite_heading">Ignite the magic in you through toodle!</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="already_account">I ALREADY HAVE AN ACCOUNT</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="coco_greeting">Hi! I\'m Coco, your friend on this learning\n journey, let\'s grow and learn together!</string>
 </resources>

@@ -1,15 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:gravity="center"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
 
-    <TextView
-        android:text="@string/login_screen"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-</LinearLayout>
+    <!-- Sun (at the back) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieSun"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="top"
+        app:lottie_fileName="sun.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <!-- Clouds (over sun) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieClouds"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="top"
+        app:lottie_fileName="clouds.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <!-- Birds (between clouds and panda) -->
+
+    <!-- Panda (centered) -->
+
+    <!-- Mountains (bottom) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieMountains"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_gravity="bottom"
+        app:lottie_fileName="mountains.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <!-- UI Elements (on top of all animations) -->
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/continueMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="444dp"
+            android:gravity="center"
+            android:text="@string/coco_greeting"
+            android:textColor="#222"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_margin="420dp"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btnContinue"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:backgroundTint="#3F703B"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="@string/continue_button"
+            android:textColor="#C3B478"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/continueMessage" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieBirds"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_gravity="top"
+            android:layout_marginTop="153dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="birds.json"
+            app:lottie_loop="true"
+            tools:layout_editor_absoluteX="0dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mad_toodle.app-mergeDebugResources-38:/values-port/values-port.xml",
+            "outputFile": "com.example.tooodle.app-mergeDebugResources-35:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\103864bfe347cf3c717b49678697f842\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\46fd2619d4b35c8e32a8589f5a724b69\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

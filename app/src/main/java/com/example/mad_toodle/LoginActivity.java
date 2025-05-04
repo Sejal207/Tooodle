@@ -2,12 +2,14 @@ package com.example.mad_toodle;
 
 import android.content.Intent;
 import android.os.Bundle;
+
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.mad_toodle.R;
@@ -21,6 +23,7 @@ public class LoginActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_login);  // you'll create this layout next
 
         try {
@@ -91,6 +94,17 @@ public class LoginActivity extends AppCompatActivity {
         // btnGoogleSignIn.setOnClickListener(v -> {
         //     startActivity(new Intent(this, GoogleSignInActivity.class));
         // });
+
+        setContentView(R.layout.activity_login);
+
+        Button goToMatchBtn = findViewById(R.id.btnGoToMatch);
+        goToMatchBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, MatchActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }
-

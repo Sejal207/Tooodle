@@ -8,7 +8,7 @@ import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.tooodle.R;
+import com.example.mad_toodle.R;
 
 public class SplashActivity extends AppCompatActivity {
 

@@ -10,13 +10,30 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.tooodle.R;
+import com.example.mad_toodle.R;
+import com.google.firebase.FirebaseApp;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 public class LoginActivity extends AppCompatActivity {
+    private FirebaseAuth mAuth;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);  // you'll create this layout next
+
+        try {
+            // Initialize Firebase if not already initialized
+            if (FirebaseApp.getApps(this).isEmpty()) {
+                FirebaseApp.initializeApp(this);
+            }
+            mAuth = FirebaseAuth.getInstance();
+        } catch (Exception e) {
+            Toast.makeText(this, "Error initializing Firebase. Please try again.", Toast.LENGTH_SHORT).show();
+            finish();
+            return;
+        }
 
         EditText etUsername = findViewById(R.id.etUsername);
         EditText etPassword = findViewById(R.id.etPassword);
@@ -26,20 +43,44 @@ public class LoginActivity extends AppCompatActivity {
         // Button btnGoogleSignIn = findViewById(R.id.btnGoogleSignIn); // If you want Google sign-in on this screen
 
         btnLoginContinue.setOnClickListener(v -> {
-            String username = etUsername.getText().toString().trim();
+            String email = etUsername.getText().toString().trim();
             String password = etPassword.getText().toString().trim();
-            if (TextUtils.isEmpty(username) || TextUtils.isEmpty(password)) {
-                Toast.makeText(this, "Please enter username and password", Toast.LENGTH_SHORT).show();
+            
+            if (TextUtils.isEmpty(email) || TextUtils.isEmpty(password)) {
+                Toast.makeText(this, "Please enter email and password", Toast.LENGTH_SHORT).show();
             } else {
-                // TODO: Implement Firebase Auth login here
-                Toast.makeText(this, "Login logic goes here", Toast.LENGTH_SHORT).show();
-                // On success: startActivity(new Intent(this, HomeActivity.class));
+                mAuth.signInWithEmailAndPassword(email, password)
+                    .addOnCompleteListener(this, task -> {
+                        if (task.isSuccessful()) {
+                            FirebaseUser user = mAuth.getCurrentUser();
+                            if (user != null) {
+                                Toast.makeText(this, "Welcome back!", Toast.LENGTH_SHORT).show();
+                                startActivity(new Intent(this, HomeActivity.class));
+                                finish();
+                            }
+                        } else {
+                            Toast.makeText(this, "Authentication failed: " + task.getException().getMessage(), 
+                                Toast.LENGTH_SHORT).show();
+                        }
+                    });
             }
         });
 
         tvForgotPassword.setOnClickListener(v -> {
-            // TODO: Implement forgot password logic
-            Toast.makeText(this, "Forgot password clicked", Toast.LENGTH_SHORT).show();
+            String email = etUsername.getText().toString().trim();
+            if (TextUtils.isEmpty(email)) {
+                Toast.makeText(this, "Please enter your email first", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            
+            mAuth.sendPasswordResetEmail(email)
+                .addOnCompleteListener(task -> {
+                    if (task.isSuccessful()) {
+                        Toast.makeText(this, "Password reset email sent", Toast.LENGTH_SHORT).show();
+                    } else {
+                        Toast.makeText(this, "Failed to send reset email", Toast.LENGTH_SHORT).show();
+                    }
+                });
         });
 
         tvSignUp.setOnClickListener(v -> {

@@ -52,7 +52,12 @@ string coco_greeting
 string continue_button
 string default_web_client_id
 string forgot_password
+string gcm_defaultSenderId
 string get_started
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string ignite_heading
 string login_screen
 string login_signup
@@ -60,6 +65,7 @@ string logo_name
 string magical_heading
 string no_account
 string password_button
+string project_id
 string signin_google
 string username_button
 style Base.Theme.Mad_toodle

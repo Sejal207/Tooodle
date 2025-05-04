@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.tooodle",
+  "applicationId": "com.example.mad_toodle",
   "variantName": "debug",
   "elements": [
     {

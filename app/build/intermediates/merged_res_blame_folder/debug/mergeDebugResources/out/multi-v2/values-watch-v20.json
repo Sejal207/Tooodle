@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tooodle.app-mergeDebugResources-35:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.mad_toodle.app-mergeDebugResources-39:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\46fd2619d4b35c8e32a8589f5a724b69\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\02cba035500249ad0e0d9b2dfd353051\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\45e878c0c333155ec11aede485459ce0\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\82033f52c9fa19ead65fa3198297e34a\\transformed\\play-services-auth-21.3.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

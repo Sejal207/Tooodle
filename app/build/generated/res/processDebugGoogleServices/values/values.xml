@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">240218521263-u6b1hveo530iiukm2sidtlv26ljgc1n4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">240218521263</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8r0_GmTKNq37XIw4y6nIW3zeYILg_tPU</string>
+    <string name="google_app_id" translatable="false">1:240218521263:android:79888d34f4832993b09e5a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8r0_GmTKNq37XIw4y6nIW3zeYILg_tPU</string>
+    <string name="google_storage_bucket" translatable="false">toodleauthentication.firebasestorage.app</string>
+    <string name="project_id" translatable="false">toodleauthentication</string>
+</resources>

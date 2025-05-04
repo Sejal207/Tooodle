@@ -7,9 +7,14 @@
     <string name="carrot_boy">A boy with lots of fresh carrots</string>
     <string name="coco_greeting">Hi! I\'m Coco, your friend on this learning\n journey, let\'s grow and learn together!</string>
     <string name="continue_button">CONTINUE</string>
-    <string name="default_web_client_id">1:240218521263:android:79888d34f4832993b09e5a</string>
+    <string name="default_web_client_id" translatable="false">240218521263-u6b1hveo530iiukm2sidtlv26ljgc1n4.apps.googleusercontent.com</string>
     <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">240218521263</string>
     <string name="get_started">GET STARTED</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8r0_GmTKNq37XIw4y6nIW3zeYILg_tPU</string>
+    <string name="google_app_id" translatable="false">1:240218521263:android:79888d34f4832993b09e5a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8r0_GmTKNq37XIw4y6nIW3zeYILg_tPU</string>
+    <string name="google_storage_bucket" translatable="false">toodleauthentication.firebasestorage.app</string>
     <string name="ignite_heading">Ignite the magic in you through toodle!</string>
     <string name="login_screen">Login Screen</string>
     <string name="login_signup">Sign Up</string>
@@ -17,6 +22,7 @@
     <string name="magical_heading">A  MAGICAL  JOURNEY  OF\n  LEARNING  BEGINS  HERE</string>
     <string name="no_account">Don\'t have an account yet? </string>
     <string name="password_button">Password</string>
+    <string name="project_id" translatable="false">toodleauthentication</string>
     <string name="signin_google">Sign in with Google</string>
     <string name="username_button">Username</string>
     <style name="Base.Theme.Mad_toodle" parent="Theme.Material3.DayNight.NoActionBar">

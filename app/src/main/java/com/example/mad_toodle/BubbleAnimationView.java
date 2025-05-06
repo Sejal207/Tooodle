@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
+import java.util.Random;  //Important
 
 public class BubbleAnimationView extends View {
 

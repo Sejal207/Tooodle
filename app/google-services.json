@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240218521263",
+    "project_id": "toodleauthentication",
+    "storage_bucket": "toodleauthentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240218521263:android:79888d34f4832993b09e5a",
+        "android_client_info": {
+          "package_name": "com.example.mad_toodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240218521263-vgpvu2dhil7ut4bb9h891hferkbvobfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_toodle",
+            "certificate_hash": "ed536af0f5c96925799f885d922993c21471c789"
+          }
+        },
+        {
+          "client_id": "240218521263-u6b1hveo530iiukm2sidtlv26ljgc1n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8r0_GmTKNq37XIw4y6nIW3zeYILg_tPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240218521263-u6b1hveo530iiukm2sidtlv26ljgc1n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

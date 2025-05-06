@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mad_toodle.app-mergeDebugResources-39:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\caches\\8.10.2\\transforms\\02cba035500249ad0e0d9b2dfd353051\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

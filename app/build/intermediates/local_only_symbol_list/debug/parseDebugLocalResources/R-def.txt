@@ -1,6 +1,7 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color status_bar_color
 color white
 drawable bg_gradient
 drawable gettingstartedchar
@@ -13,13 +14,15 @@ font luckiest_guy
 id btnAlreadyAccount
 id btnContinue
 id btnGetStarted
-id btnGoogleSignIn
-id btnLoginContinue
+id btnLogin
+id btnLogout
+id btnRegister
 id bubbleView
 id characterImage
 id continueMessage
+id etConfirmPassword
+id etEmail
 id etPassword
-id etUsername
 id loginFormContainer
 id logoContainer
 id logoText
@@ -29,18 +32,21 @@ id lottieMountains
 id lottiePanda
 id lottieSun
 id main
+id registerFormContainer
 id splash_container
 id tvForgotPassword
-id tvSignUp
+id tvLogin
+id tvRegister
+id tvWelcome
 id welcomeCard
 id welcomeSubtitle
 id welcomeTitle
 layout activity_continue
 layout activity_getting_started
-layout activity_google_signin
 layout activity_home
 layout activity_login
 layout activity_main
+layout activity_register
 layout activity_splash
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -49,6 +55,7 @@ string already_account
 string app_name
 string carrot_boy
 string coco_greeting
+string confirm_password
 string continue_button
 string default_web_client_id
 string forgot_password
@@ -58,7 +65,9 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string have_account
 string ignite_heading
+string login_back
 string login_screen
 string login_signup
 string logo_name

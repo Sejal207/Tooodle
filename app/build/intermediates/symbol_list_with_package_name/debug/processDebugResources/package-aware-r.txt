@@ -2148,6 +2148,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color status_bar_color
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -3294,8 +3295,9 @@ id browser_actions_menu_view
 id btnAlreadyAccount
 id btnContinue
 id btnGetStarted
-id btnGoogleSignIn
-id btnLoginContinue
+id btnLogin
+id btnLogout
+id btnRegister
 id bubbleView
 id buttonPanel
 id cache_measures
@@ -3384,8 +3386,9 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id escape
+id etConfirmPassword
+id etEmail
 id etPassword
-id etUsername
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3579,6 +3582,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id registerFormContainer
 id report_drawn
 id restart
 id reverse
@@ -3702,7 +3706,9 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvForgotPassword
-id tvSignUp
+id tvLogin
+id tvRegister
+id tvWelcome
 id unchecked
 id uniform
 id unlabeled
@@ -3849,10 +3855,10 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_continue
 layout activity_getting_started
-layout activity_google_signin
 layout activity_home
 layout activity_login
 layout activity_main
+layout activity_register
 layout activity_splash
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -4010,6 +4016,7 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string confirm_password
 string continue_button
 string copy_toast_msg
 string default_web_client_id
@@ -4028,10 +4035,12 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string have_account
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string ignite_heading
 string item_view_role_description
+string login_back
 string login_screen
 string login_signup
 string logo_name

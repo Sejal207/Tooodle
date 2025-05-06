@@ -14,11 +14,13 @@ public class GettingStartedActivity extends AppCompatActivity {
         setContentView(R.layout.activity_getting_started);
 
         findViewById(R.id.btnGetStarted).setOnClickListener(v -> {
-            startActivity(new Intent(this, GoogleSignInActivity.class));
+            startActivity(new Intent(this, RegisterActivity.class));
+            finish();
         });
 
         findViewById(R.id.btnAlreadyAccount).setOnClickListener(v -> {
-            startActivity(new Intent(this, ContinueActivity.class));
+            startActivity(new Intent(this, LoginActivity.class));
+            finish();
         });
     }
 }

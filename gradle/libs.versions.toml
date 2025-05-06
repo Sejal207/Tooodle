@@ -1,4 +1,5 @@
 [versions]
+
 agp = "8.8.2"
 firebaseDatabase = "21.0.0"
 googleServices = "4.4.2"

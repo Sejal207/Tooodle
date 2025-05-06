@@ -5,9 +5,9 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 import android.widget.LinearLayout;
-
-
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.mad_toodle.R;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -27,18 +27,17 @@ public class SplashActivity extends AppCompatActivity {
             bubbleView.explodeBubbles();
         }, 2000);
 
-// Step 2: Show logo AFTER bubbles are offscreen (e.g., after 4s total)
+        // Step 2: Show logo AFTER bubbles are offscreen (e.g., after 4s total)
         new Handler().postDelayed(() -> {
             logoContainer.setAlpha(0f);
             logoContainer.setVisibility(View.VISIBLE);
             logoContainer.animate().alpha(1f).setDuration(1000).start();
         }, 4000);
 
-// Step 3: Navigate to Login screen later (e.g., at 6.5s)
+        // Step 3: Navigate to GettingStarted screen later (e.g., at 6.5s)
         new Handler().postDelayed(() -> {
-            startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+            startActivity(new Intent(SplashActivity.this, GettingStartedActivity.class));
             finish();
-        }, 10000);
-
+        }, 5000);
     }
 }

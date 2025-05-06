@@ -1,0 +1,95 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+    <!-- Sun (at the back) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieSun"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="top"
+        app:lottie_fileName="Sun.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <!-- Clouds (over sun) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieClouds"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="top"
+        app:lottie_fileName="Clouds.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnGoogleSignIn"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:text="@string/signin_google"
+            android:backgroundTint="#fff"
+            android:textColor="#222"
+            android:drawableLeft="@drawable/ic_google"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:elevation="4dp"
+            android:fontFamily="sans-serif-medium"
+            android:padding="12dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <!-- Mountains (bottom) -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieMountains"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_gravity="bottom"
+        app:lottie_fileName="Mountains.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <!-- UI Elements (on top of all animations) -->
+
+
+
+
+        <!-- Google Sign-In Button (optional, can be on a separate screen) -->
+        <!--
+        <Button
+            android:id="@+id/btnGoogleSignIn"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="Sign in with Google"
+            android:backgroundTint="#fff"
+            android:textColor="#222"
+            android:drawableLeft="@drawable/ic_google"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/loginFormContainer"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+        -->
+
+        <!-- Keep Lottie birds animation as before -->
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieBirds"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_gravity="top"
+            android:layout_marginTop="153dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="Birds.json"
+            app:lottie_loop="true"
+            tools:layout_editor_absoluteX="0dp" />
+</FrameLayout>

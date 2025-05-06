@@ -3,5 +3,7 @@
     <style name="Base.Theme.Mad_toodle" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
     </style>
 </resources>

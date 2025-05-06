@@ -32,13 +32,26 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Mad_toodle" >
-        <activity android:name="com.example.mad_toodle.GoogleSignInActivity" />
-        <activity android:name="com.example.mad_toodle.ContinueActivity" />
-        <activity android:name="com.example.mad_toodle.LoginActivity" />
-        <activity android:name="com.example.mad_toodle.HomeActivity" />
-        <activity android:name="com.example.mad_toodle.GettingStartedActivity" />
+        <activity
+            android:name="com.example.mad_toodle.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.ContinueActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.GettingStartedActivity"
+            android:exported="false" />
         <activity
             android:name="com.example.mad_toodle.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.MatchActivity"
             android:exported="false" />
         <activity
             android:name="com.example.mad_toodle.SplashActivity"
@@ -93,6 +106,12 @@
             android:exported="false" >
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"

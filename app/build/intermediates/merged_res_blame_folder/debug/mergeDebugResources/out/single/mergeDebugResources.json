@@ -1,9 +1,5 @@
 [
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_google_signin.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_google_signin.xml"
-    },
-    {
         "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.mad_toodle.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
@@ -26,6 +22,10 @@
     {
         "merged": "com.example.mad_toodle.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "com.example.mad_toodle.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "com.example.mad_toodle.app-main-43:/layout/activity_register.xml"
     },
     {
         "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_splash.xml.flat",

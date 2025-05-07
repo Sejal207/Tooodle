@@ -1,122 +1,486 @@
 [
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_gettingstartedchar.jpg.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\gettingstartedchar.jpg"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_ic_google.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/ic_google.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_rounded_edittext_bg.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\rounded_edittext_bg.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_rounded_edittext_bg.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/rounded_edittext_bg.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_login.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_login.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_rounded_green_header.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_rounded_green_header.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/font_luckiest_guy.ttf.flat",
-        "source": "com.example.mad_toodle.app-main-43:/font/luckiest_guy.ttf"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_mountains.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\mountains.json"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_register.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_register.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_bottom_nav.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_bottom_nav.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_splash.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_rohan.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_rohan.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_card_craze_box.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\card_craze_box.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_leaderboard_you.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_leaderboard_you.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/raw_logo.json.flat",
-        "source": "com.example.mad_toodle.app-main-43:/raw/logo.json"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_you.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_you.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_gettingstartedchar.jpg.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/gettingstartedchar.jpg"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_balloon.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\balloon.json"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_getting_started.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_getting_started.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_mita.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_mita.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/xml_backup_rules.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circle1.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circle1.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_gradient_background.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/gradient_background.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_google.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_gradient.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_main.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_main.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_cardmatch.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\cardmatch.json"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_home.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_home.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\font_luckiest_guy.ttf.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\font\\luckiest_guy.ttf"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_cardcraze.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\cardcraze.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_jane.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_jane.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_continue.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/layout/activity_continue.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_sleeping_panda.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\sleeping_panda.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_tray_border.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\tray_border.png"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_profile_placeholder.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\profile_placeholder.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/drawable_bg_gradient.xml.flat",
-        "source": "com.example.mad_toodle.app-main-43:/drawable/bg_gradient.xml"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_continue.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_continue.xml"
     },
     {
-        "merged": "com.example.mad_toodle.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mad_toodle.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_box_background.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\box_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_liam.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_liam.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_amazing.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\amazing.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_logo.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\logo.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bar_chart_bg.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bar_chart_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_emma.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_emma.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_rect3.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\rect3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_clouds.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\clouds.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_cloud.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_tri2.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\tri2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\font_baloo_bhaijaan.ttf.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\font\\baloo_bhaijaan.ttf"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_music_icon.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\music_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_noah.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_noah.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_octopus.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\octopus.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_turtle.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\turtle.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_bell.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_bell.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_chris.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_chris.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_leaderboard.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_animal_icon.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\animal_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circlee4.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circlee4.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_panda.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\panda.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_devi.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_devi.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_bg_card_blue.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\bg_card_blue.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_cardcraze1.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\cardcraze1.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_coins.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\coins.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_shape_monster_icon.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\shape_monster_icon.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_priya.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_priya.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_back.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_olivia.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_olivia.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_rect1.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\rect1.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_match.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_square_outline.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\square_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_progress.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_crown.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_ava.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_ava.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_coins_bag.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\coins_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_birds.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\birds.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_item_leaderboard_row.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\item_leaderboard_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_triangle_outline.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\triangle_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_dolphin.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\dolphin.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_view_login_bonus_popup.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\view_login_bonus_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_alex.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_alex.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_fish.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\fish.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_tri3.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\tri3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_coin.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circle2.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_dino_ending.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\dino_ending.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_profileandprogress.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_profileandprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_cardcraze2_wrong.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\cardcraze2_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_shapesort.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\shapesort.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_card_craze_light.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\card_craze_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_getting_started.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_getting_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mad_toodle.app-debug-41:/layout_activity_settings.xml.flat",
+        "source": "com.example.mad_toodle.app-main-43:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_bonus_day_selected.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_bonus_day_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circlee3.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circlee3.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_tri1.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\tri1.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_lisa.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_lisa.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_avatar_sam.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\avatar_sam.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_bg_bonus_day.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\bg_bonus_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_mascot_dino.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\mascot_dino.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_tray.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\tray.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_rect2.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\rect2.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\drawable_circle_outline.png.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\drawable\\circle_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\raw_sun.json.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\raw\\sun.json"
+    },
+    {
+        "merged": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KHUSHI GOYAL\\.gradle\\daemon\\8.10.2\\com.example.mad_toodle.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
     }
 ]

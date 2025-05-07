@@ -27,6 +27,7 @@
     <string name="no_account">Don\'t have an account yet? </string>
     <string name="password_button">Password</string>
     <string name="project_id" translatable="false">toodleauthentication</string>
+    <string name="register_button">Register</string>
     <string name="signin_google">Sign in with Google</string>
     <string name="username_button">Username</string>
     <style name="Base.Theme.Mad_toodle" parent="Theme.Material3.DayNight.NoActionBar">

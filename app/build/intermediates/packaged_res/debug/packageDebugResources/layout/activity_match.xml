@@ -1,0 +1,223 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+    <!-- Title -->
+
+    <!-- Instruction -->
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#4D6F3C"
+        android:gravity="center"
+        android:padding="20dp"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="SHAPE MONSTER"
+        android:textColor="#FFD700"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <!-- Upper Tray Background -->
+
+    <!-- Target Shapes (Upper Tray contents) -->
+
+    <!-- Lower Tray Background -->
+
+    <!-- Draggable Shapes (Inside Lower Tray) -->
+
+    <TextView
+        android:id="@+id/instructionText"
+        android:layout_width="206dp"
+        android:layout_height="126dp"
+        android:fontFamily="@font/luckiest_guy"
+        android:padding="16dp"
+        android:text="Fit the right shape in the tray before Mr. COCO eats them all!"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/lowerTray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.258"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/titleText"
+        app:layout_constraintVertical_bias="0.558" />
+
+    <View
+        android:id="@+id/upperTray"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:background="@drawable/tray_border"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lowerTray"
+        app:layout_constraintVertical_bias="0.703" />
+
+    <ImageView
+        android:id="@+id/targetCircle"
+        android:layout_width="78dp"
+        android:layout_height="60dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/circle_outline"
+        app:layout_constraintBottom_toBottomOf="@id/upperTray"
+        app:layout_constraintEnd_toStartOf="@id/targetSquare"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/upperTray"
+        app:layout_constraintVertical_bias="0.366"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <ImageView
+        android:id="@+id/targetSquare"
+        android:layout_width="79dp"
+        android:layout_height="62dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/square_outline"
+        app:layout_constraintBottom_toBottomOf="@id/upperTray"
+        app:layout_constraintEnd_toStartOf="@id/targetTriangle"
+        app:layout_constraintStart_toEndOf="@id/targetCircle"
+        app:layout_constraintTop_toTopOf="@id/upperTray"
+        app:layout_constraintVertical_bias="0.327"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <ImageView
+        android:id="@+id/targetTriangle"
+        android:layout_width="80dp"
+        android:layout_height="59dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/triangle_outline"
+        app:layout_constraintBottom_toBottomOf="@id/upperTray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/targetSquare"
+        app:layout_constraintTop_toTopOf="@id/upperTray"
+        app:layout_constraintVertical_bias="0.372"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <View
+        android:id="@+id/lowerTray"
+        android:layout_width="352dp"
+        android:layout_height="275dp"
+        android:background="@drawable/tray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/titleText"
+        app:layout_constraintVertical_bias="0.618" />
+
+    <ImageView
+        android:id="@+id/draggableCircle1"
+        android:layout_width="51dp"
+        android:layout_height="58dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/circle1"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.066"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.064" />
+
+    <ImageView
+        android:id="@+id/draggableCircle2"
+        android:layout_width="39dp"
+        android:layout_height="44dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/circle2"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.37"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.848" />
+
+    <ImageView
+        android:id="@+id/draggableRect1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/rect1"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.345"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.241" />
+
+    <ImageView
+        android:id="@+id/draggableRect2"
+        android:layout_width="57dp"
+        android:layout_height="54dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/rect2"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.751" />
+
+    <ImageView
+        android:id="@+id/draggableRect3"
+        android:layout_width="51dp"
+        android:layout_height="49dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/rect3"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.89"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.132" />
+
+    <ImageView
+        android:id="@+id/draggableTri1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/tri1"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.705"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.343" />
+
+    <ImageView
+        android:id="@+id/draggableTri2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/tri2"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.062"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.779" />
+
+    <ImageView
+        android:id="@+id/draggableTri3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/tri3"
+        app:layout_constraintBottom_toBottomOf="@id/lowerTray"
+        app:layout_constraintEnd_toEndOf="@+id/lowerTray"
+        app:layout_constraintHorizontal_bias="0.9"
+        app:layout_constraintStart_toStartOf="@+id/lowerTray"
+        app:layout_constraintTop_toTopOf="@id/lowerTray"
+        app:layout_constraintVertical_bias="0.851" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

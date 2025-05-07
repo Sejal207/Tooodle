@@ -1,0 +1,6 @@
+com.example.mad_toodle.test.app-core-1.6.1-0 C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\56a87bafea584bcbdd12462778f0a154\transformed\core-1.6.1\res
+com.example.mad_toodle.test.app-annotation-experimental-1.4.0-1 C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\cf2824622d47e9687be6cbf0563b00be\transformed\annotation-experimental-1.4.0\res
+com.example.mad_toodle.test.app-androidTest-2 C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\generated\res\resValues\androidTest\debug
+com.example.mad_toodle.test.app-mergeDebugAndroidTestResources-3 C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mad_toodle.test.app-mergeDebugAndroidTestResources-4 C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mad_toodle.test.app-debugAndroidTest-5 C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

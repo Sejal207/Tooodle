@@ -1,0 +1,29 @@
+EXECUTING: C:\Users\KHUSHI GOYAL\AppData\Local\Android\Sdk\build-tools\35.0.0\aapt.exe dump badging C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk
+CURRENT_WORKING_DIRECTORY: C:\Users\KHUSHI GOYAL\Downloads\Tooodle
+START_TIME: 2025-05-08 01:00:09.204
+START_TIME-NANOS: 2025-05-08 01:00:09.204664600
+ENVIRONMENT:
+
+*****************************************
+STDOUT/STDERR BELOW
+===================
+package: name='com.example.mad_toodle.test' versionCode='' versionName='' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'24'
+targetSdkVersion:'35'
+uses-permission: name='android.permission.REORDER_TASKS'
+application: label='' icon=''
+application-debuggable
+uses-library:'android.test.runner'
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+other-activities
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales: '--_--'
+densities: '160'
+===================
+END_TIME: 2025-05-08 01:00:09.274
+END_TIME-NANOS: 2025-05-08 01:00:09.274628300
+DURATION: 69ms
+EXIT CODE: 0

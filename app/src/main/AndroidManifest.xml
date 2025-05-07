@@ -38,6 +38,27 @@
         <activity 
             android:name=".MatchActivity"
             android:exported="false" />
+        <activity
+            android:name=".CardCraze1Activity"
+            android:exported="false"/>
+        <activity
+            android:name=".CardCraze2Activity"
+            android:exported="false"/>
+        <activity
+            android:name=".DinoEndingActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".HomepageActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".LeaderboardActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ProfileAndProgressActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"/>
 
 
         <activity
@@ -49,10 +70,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
-        <activity android:name=".LoginActivity" android:exported="false" />
-        <activity android:name=".MatchActivity"/>
 
 
     </application>

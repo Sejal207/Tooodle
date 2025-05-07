@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.mad_toodle.LogoutTest" tests="1" failures="0" errors="0" skipped="0" time="12.282" timestamp="2025-05-07T19:30:11" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-M315F - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testLogoutFlow" classname="com.example.mad_toodle.LogoutTest" time="6.859" />
+</testsuite>

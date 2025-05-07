@@ -1,0 +1,68 @@
+# 2025-05-07T19:30:11.514171600Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "LogoutTest"
+    test_package: "com.example.mad_toodle"
+    test_method: "testLogoutFlow"
+    start_time {
+      seconds: 1746646199
+      nanos: 193000000
+    }
+    end_time {
+      seconds: 1746646206
+      nanos: 51000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-M315F - 12\\logcat-com.example.mad_toodle.LogoutTest-testLogoutFlow.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-M315F - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-M315F - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-M315F - 12\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-M315F - 12\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

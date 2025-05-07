@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-53:12
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:2:1-77:12
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\b1e1c6c0c68e275f74895fd326c80852\transformed\lottie-6.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\f4d1b7c3e2b0b13b67a4c2b6ab84c259\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\b805df69e8f8244215c53b81e1708491\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
@@ -89,8 +89,8 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\KHUSHI GOYA
 	android:name
 		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:7:5-51:19
-INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:7:5-51:19
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:7:5-75:19
+INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:7:5-75:19
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\b1e1c6c0c68e275f74895fd326c80852\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\b1e1c6c0c68e275f74895fd326c80852\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\KHUSHI GOYAL\.gradle\caches\8.10.2\transforms\f4d1b7c3e2b0b13b67a4c2b6ab84c259\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
@@ -192,35 +192,77 @@ ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.
 	android:name
 		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:32:13-51
 activity#com.example.mad_toodle.MainActivity
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:34:9-36:40
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:34:9-37:40
 	android:exported
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
 		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:35:13-41
 activity#com.example.mad_toodle.MatchActivity
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:37:9-39:40
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:39:13-37
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:38:13-42
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:39:13-42
+activity#com.example.mad_toodle.CardCraze1Activity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:41:9-43:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:42:13-47
+activity#com.example.mad_toodle.CardCraze2Activity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:44:9-46:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:45:13-47
+activity#com.example.mad_toodle.DinoEndingActivity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:48:13-47
+activity#com.example.mad_toodle.HomepageActivity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:51:13-45
+activity#com.example.mad_toodle.LeaderboardActivity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:53:9-55:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:54:13-48
+activity#com.example.mad_toodle.ProfileAndProgressActivity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:56:9-58:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:57:13-55
+activity#com.example.mad_toodle.SettingsActivity
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:59:9-61:39
+	android:exported
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:60:13-45
 activity#com.example.mad_toodle.SplashActivity
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:41:9-49:20
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:64:9-72:20
 	android:exported
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:66:13-36
 	android:theme
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:44:13-52
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:67:13-52
 	android:name
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:42:13-43
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:65:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:45:13-48:29
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:68:13-71:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:46:17-69
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:69:17-69
 	android:name
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:46:25-66
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:69:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:47:17-77
+ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:70:17-77
 	android:name
-		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:47:27-74
+		ADDED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml:70:27-74
 uses-sdk
 INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\src\main\AndroidManifest.xml

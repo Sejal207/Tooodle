@@ -1,0 +1,43 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.example.mad_toodle"
+    test_package: "com.example.mad_toodle.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.example.mad_toodle/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.example.mad_toodle.LogoutTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\intermediates\\apk\\debug\\app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "C:\\Users\\KHUSHI GOYAL\\Downloads\\Tooodle\\app\\build\\intermediates\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\apk\debug\app-debug.apk] on device RZ8N61JLSJT.
+INFO: Installing [C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk] on device RZ8N61JLSJT.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.example.mad_toodle/additional_test_output to C:\Users\KHUSHI GOYAL\Downloads\Tooodle\app\build\outputs\connected_android_test_additional_output\debugAndroidTest\connected\SM-M315F - 12
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.example.mad_toodle for device RZ8N61JLSJT.
+INFO: Uninstalling com.example.mad_toodle.test for device RZ8N61JLSJT.
+INFO: Execute com.example.mad_toodle.LogoutTest.testLogoutFlow: PASSED

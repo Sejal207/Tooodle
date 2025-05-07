@@ -54,6 +54,27 @@
             android:name="com.example.mad_toodle.MatchActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.mad_toodle.CardCraze1Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.CardCraze2Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.DinoEndingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.HomepageActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.LeaderboardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.ProfileAndProgressActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mad_toodle.SettingsActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.mad_toodle.SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.Mad_toodle" >

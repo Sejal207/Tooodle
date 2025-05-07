@@ -19,7 +19,7 @@ public class GettingStartedActivity extends AppCompatActivity {
         });
 
         findViewById(R.id.btnAlreadyAccount).setOnClickListener(v -> {
-            startActivity(new Intent(this, LoginActivity.class));
+            startActivity(new Intent(this, ContinueActivity.class));
             finish();
         });
     }

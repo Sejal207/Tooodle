@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Shadow layer -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#3388cc" /> <!-- Light blue shadow -->
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+
+    <!-- Main box layer -->
+    <item android:top="4dp"> <!-- slight offset to create the bottom shadow effect -->
+        <shape android:shape="rectangle">
+            <solid android:color="#F6D54D" /> <!-- Light yellow background -->
+            <stroke android:width="2dp" android:color="#FFFFFF"/> <!-- White border -->
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+</layer-list>
